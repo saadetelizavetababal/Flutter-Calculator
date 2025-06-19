@@ -54,3 +54,7 @@ flutter_calculator/
 - Press = to calculate the result.
 - Press C to clear all input.
 - Press ⌫ to delete the last character.
+
+## 🤝 Contributing
+Contributions are welcome!
+Feel free to submit bug reports, feature requests, or pull requests.
