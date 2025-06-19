@@ -20,8 +20,7 @@ Designed for both Android and iOS platforms.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/calculator_home.png" width="300"/>
-  <img src="screenshots/calculator_result.png" width="300"/>
+  <img src="output.png" width="300"/>
 </p>
 
 ---
